@@ -1,4 +1,4 @@
-name: environment
+name: app_environment
 channels:
   - snowflake
 dependencies:
